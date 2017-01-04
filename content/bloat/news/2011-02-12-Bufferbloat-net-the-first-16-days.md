@@ -59,8 +59,7 @@ BitTorrent](https://lists.bufferbloat.net/pipermail/bloat/2011-February/000025.h
 - an exploration of the issues and advantages of bittorrent\
 [TCP Vegas vs
 Cubic](https://lists.bufferbloat.net/pipermail/bloat/2011-February/000016.html)
-- Some <link>Experiment\_-\_TCP\_cubic\_vs\_TCP\_vegas|puzzling data
-about TCP vegas</link> with current hardware\
+- Some [puzzling data about TCP vegas](../../bloat/wiki/Experiment_-_TCP_cubic_vs_TCP_vegas.md) with current hardware\
 [The wireless problem in a
 nutshell](https://lists.bufferbloat.net/pipermail/bloat/2011-February/000068.html)
 The unique problems 802.11 introduces for TCP/ip (related: [Wireless
@@ -86,10 +85,9 @@ source code maintainer - [Richard
 Scheffenegger](http://tools.ietf.org/html/draft-scheffenegger-tcpm-sack-loss-recovery-00)
 put up a [simple NS2 animation of
 bufferbloat.](http://www.bufferbloat.net/attachments/15/nam00000.avi) -
-[Richard Pitt](http://digital-rag.com/) started a <link>glossary</link>
-- [Don Marti](http://zgp.org/~dmarti/) contributed some <link>Linux
-Tips</link> - Eric Raymond & Dave Täht are working on an introduction
-and site overview - links to various important <link>papers</link> have
+[Richard Pitt](http://digital-rag.com/) started a [glossary](../../bloat/wiki/Glossary.md)
+- [Don Marti](http://zgp.org/~dmarti/) contributed some [Linux Tips](../../bloat/wiki/Linux_Tips.md) - Eric Raymond & Dave Täht are working on an introduction
+and site overview - links to various important [papers](../../bloat/wiki/Papers.md) have
 been collected - and numerous bits and pieces of the overall picture
 have been filled in from Jim Gettys' extensive blog postings. More
 definitions, contributions, and organization are direly needed, but the
